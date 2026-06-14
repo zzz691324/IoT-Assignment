@@ -1,4 +1,3 @@
-### 2.1 Components Required
 
 To build this project, you will need the following hardware components:
 
@@ -14,3 +13,5 @@ To build this project, you will need the following hardware components:
 | 3V Miniature Brush Motor | 1 |
 | Resistor | 2 |
 | Jumper Wires | Variable |
+
+A huge thank you to FluxGarage for the RoboEyes library. You can find the original library here https://github.com/FluxGarage/RoboEyes,
